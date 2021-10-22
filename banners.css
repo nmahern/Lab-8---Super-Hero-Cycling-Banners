@@ -1,0 +1,36 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    background-color: white;
+    width: 600px;
+    margin: 0 auto;
+    border: 3px solid blue;
+    padding: 1em;
+}
+h1 {
+    color: #000080;
+    margin: 0;
+    padding: 0 0 1em 0;
+    text-align: center;
+}
+h2 {
+  font-size: 140%;
+  margin-top: .5em;
+    text-align: center;
+}
+p {
+    margin: 0;
+    padding: .5em;
+    text-align: center; 
+}
+ul {
+    display: none;
+}
+
+img {
+border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 500px;
+
+}
